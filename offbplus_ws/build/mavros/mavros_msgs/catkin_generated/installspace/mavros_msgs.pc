@@ -1,0 +1,8 @@
+prefix=/home/zak/offbplus_ws/install
+
+Name: mavros_msgs
+Description: Description of mavros_msgs
+Version: 1.0.0
+Cflags: -I/home/zak/offbplus_ws/install/include
+Libs: -L/home/zak/offbplus_ws/install/lib 
+Requires: geographic_msgs geometry_msgs message_runtime sensor_msgs std_msgs

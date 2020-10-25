@@ -1,0 +1,2 @@
+mavros/libmavconn:mavros/mavros:mavros/mavros_extras:mavros/mavros_msgs:mavros/test_mavros:offb
+-DCMAKE_BUILD_TYPE=Debug -DCATKIN_DEVEL_PREFIX=/home/zak/offbplus_ws/devel -DCMAKE_INSTALL_PREFIX=/home/zak/offbplus_ws/install -G Unix Makefiles

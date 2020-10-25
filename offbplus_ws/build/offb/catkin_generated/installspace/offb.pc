@@ -1,0 +1,8 @@
+prefix=/home/zak/offbplus_ws/install
+
+Name: offb
+Description: Description of offb
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/zak/offbplus_ws/install/lib 
+Requires: 
